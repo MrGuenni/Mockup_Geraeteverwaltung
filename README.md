@@ -1,2 +1,2 @@
 ## Mockup_Geräteverwaltung
---> Study Case I
+→ Study Case I
